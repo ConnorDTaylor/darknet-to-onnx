@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 # Darknet YOLOv4, YOLOv3 to ONNX
 
+Python 3.10 REQUIRED.
+
 ## Description
 
 This project can convert original AlexeyAB/darknet model weights & cfg to ONNX format.  
