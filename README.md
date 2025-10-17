@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Darknet YOLOv4, YOLOv3 to ONNX
 
-Python 3.10 REQUIRED.
+Python 3.10 REQUIRED. Orin Nano GCS used in the past. 
 
 ## Description
 
