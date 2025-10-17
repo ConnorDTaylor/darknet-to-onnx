@@ -1,0 +1,5 @@
+classes = 1
+train = /home/connor_wsl/ObjectDetector_Seagull/modified_dataset_darkmark/models/yolov4_tiny/modified_dataset_darkmark_train.txt
+valid = /home/connor_wsl/ObjectDetector_Seagull/modified_dataset_darkmark/models/yolov4_tiny/modified_dataset_darkmark_valid.txt
+names = /home/connor_wsl/ObjectDetector_Seagull/modified_dataset_darkmark/models/yolov4_tiny_3l/modified_dataset_darkmark.names
+backup = /home/connor_wsl/ObjectDetector_Seagull/modified_dataset_darkmark/models/yolov4_tiny_3l
