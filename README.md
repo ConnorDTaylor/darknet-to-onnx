@@ -1,7 +1,11 @@
 <!-- markdownlint-disable MD033 -->
 # Darknet YOLOv4, YOLOv3 to ONNX
 
+## Personal Notes
+
 Python 3.10 REQUIRED. Orin Nano GCS used in the past. 
+
+Example: python3 main.py --cfg models/yolov4_tiny/modified_dataset_darkmark_yolov4tiny.cfg --weight models/yolov4_tiny/modified_dataset_darkmark_best.weights --names models/yolov4_tiny/modified_dataset_darkmark.names --img models/test.png
 
 ## Description
 
